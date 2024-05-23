@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xenor\\source\\repos\\XnWebCrawler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFABD6-215E-4174-AE9D-AFA70C542479}|XnWebCrawler\\XnWebCrawler.csproj|c:\\users\\xenor\\source\\repos\\xnwebcrawler\\xnwebcrawler\\controller\\browsercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EFABD6-215E-4174-AE9D-AFA70C542479}|XnWebCrawler\\XnWebCrawler.csproj|solutionrelative:xnwebcrawler\\controller\\browsercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrowserControls.cs",
+              "DocumentMoniker": "C:\\Users\\xenor\\source\\repos\\XnWebCrawler\\XnWebCrawler\\Controller\\BrowserControls.cs",
+              "RelativeDocumentMoniker": "XnWebCrawler\\Controller\\BrowserControls.cs",
+              "ToolTip": "C:\\Users\\xenor\\source\\repos\\XnWebCrawler\\XnWebCrawler\\Controller\\BrowserControls.cs",
+              "RelativeToolTip": "XnWebCrawler\\Controller\\BrowserControls.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:23:53.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

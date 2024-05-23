@@ -1,0 +1,4 @@
+C:\Users\xenor\source\repos\XnWebCrawler\XnWebCrawler\obj\Debug\netcoreapp3.1\XnWebCrawler.csprojAssemblyReference.cache
+C:\Users\xenor\source\repos\XnWebCrawler\XnWebCrawler\obj\Debug\netcoreapp3.1\XnWebCrawler.AssemblyInfoInputs.cache
+C:\Users\xenor\source\repos\XnWebCrawler\XnWebCrawler\obj\Debug\netcoreapp3.1\XnWebCrawler.AssemblyInfo.cs
+C:\Users\xenor\source\repos\XnWebCrawler\XnWebCrawler\obj\Debug\netcoreapp3.1\XnWebCrawler.csproj.CoreCompileInputs.cache

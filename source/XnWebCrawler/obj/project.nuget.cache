@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "4FCu9k5glDbDxOWsVxQ/55q2W0GgvDjhwy/3dV8fTmycnsf11Gj48zfZbyVNxtSzXh16w0pGOu7RKoXX4zjHVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xenor\\source\\repos\\XnWebCrawler\\XnWebCrawler\\XnWebCrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xenor\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\xenor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\xenor\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\xenor\\.nuget\\packages\\selenium.webdriver\\4.5.0\\selenium.webdriver.4.5.0.nupkg.sha512",
+    "C:\\Users\\xenor\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\xenor\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\xenor\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\xenor\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Npgsql' 6.0.7 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "libraryId": "Npgsql",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
